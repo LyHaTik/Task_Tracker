@@ -1,0 +1,11 @@
+aiogram==3.4.1
+SQLAlchemy==1.4.49
+asyncpg==0.27.0
+alembic==1.11.1
+python-dotenv==1.0.0
+google-api-python-client==2.92.0
+google-auth==2.23.0
+google-auth-httplib2==0.1.0
+rapidfuzz==2.13.7
+aiohttp==3.9.4
+transliterate

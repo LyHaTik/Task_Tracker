@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Google Sheets API
+task-tracker-472220-e6d469f4ed8a.json
